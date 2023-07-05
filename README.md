@@ -1,4 +1,4 @@
-# Qexo
+# Qexo 2
 一个快速、强大、漂亮的在线 Hexo 编辑器，您的 Star 是对我最大的支持。
 
 *请查看 [文档](https://www.oplog.cn/qexo)*
